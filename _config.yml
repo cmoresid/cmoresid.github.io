@@ -15,6 +15,7 @@ style:
 navigation:
   - index.html
   - archive.html
+  - projects.md
   - about.md
 
 comments:

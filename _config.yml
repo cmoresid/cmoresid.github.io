@@ -1,4 +1,4 @@
-title: "Musings of a Developer"
+title: "Connor Moreside - Musings of a Developer"
 author: "Connor Moreside"
 description: "Really cool blog about ... something"
 more: "read more »"
@@ -21,7 +21,7 @@ comments:
   disqus: "disqus-contrast"
 
 links:
-  - github: "https://github.com/moresid"
+  - github: "https://github.com/cmoresid"
   - linkedin: "https://www.linkedin.com/in/cmoreside/"
   - envelope: "mailto:connor@moreside.io"
 

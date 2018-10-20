@@ -22,7 +22,8 @@ comments:
 
 links:
   - github: "https://github.com/moresid"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - linkedin: "https://www.linkedin.com/in/cmoreside/"
+  - envelope: "mailto:connor@moreside.io"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}

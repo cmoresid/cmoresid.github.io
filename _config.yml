@@ -23,6 +23,7 @@ comments:
 links:
   - github: "https://github.com/cmoresid"
   - linkedin: "https://www.linkedin.com/in/cmoreside/"
+  - twitter: "https://twitter.com/c_moreside"
   - envelope: "mailto:connor@moreside.io"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
